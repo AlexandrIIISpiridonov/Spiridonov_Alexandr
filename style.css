@@ -1,0 +1,24 @@
+table{
+   font-family: 'Times New Roman', Times, serif;
+   border: 10px;
+   border-collapse: collapse;
+   font-size: 14px;
+}
+thead{
+   text-align: center;
+   font-weight: 600;
+}
+tfoot{
+   text-align: right;
+   border: 0cm;
+   background-color: black;
+   color: white;
+   font-weight: 600;
+}
+td,th{
+   border-color: rgba(109, 107, 117, 0.297);
+   padding: 7px;
+}
+tbody{
+   font-weight: normal;
+}
